@@ -7,7 +7,7 @@
 <br />
 <br />
 
-<p align="center"><a href="https://www.youtube.com/watch?v=EeaYWLNXAwQ" target="_blank"><img src="https://img.youtube.com/vi/EeaYWLNXAwQ/maxresdefault.jpg" 
+<p align="center"><a href="https://www.youtube.com/watch?v=t_VgDeUJ3_I" target="_blank"><img src="https://img.youtube.com/vi/t_VgDeUJ3_I/maxresdefault.jpg" 
 alt="Tutorial creating hangman project in Vue 3" width="600" /></a></p>
 <p align="center"><i>Checkout the tutorial for this repo.</i></p>
 
